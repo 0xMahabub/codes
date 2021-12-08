@@ -1,0 +1,9 @@
+*.exe
+*.o
+.cache
+.vscode
+.DS_Store
+.ini
+build/
+cache/
+bn/

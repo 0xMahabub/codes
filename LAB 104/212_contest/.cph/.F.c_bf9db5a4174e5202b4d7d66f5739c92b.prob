@@ -1,0 +1,1 @@
+{"name":"Local: F","url":"c:\\Users\\mahab\\Documents\\Codeblocks\\lab\\assignment01\\212_contest\\F.c","tests":[{"id":1637943323550,"input":"3 \n120 11 400\n10213 312 10\n10 3 450","output":"120\n312\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mahab\\Documents\\Codeblocks\\lab\\assignment01\\212_contest\\F.c","group":"local","local":true}
