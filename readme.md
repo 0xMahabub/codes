@@ -1,4 +1,4 @@
-# This repository is only for personal/academic => C,C++, C#, etc coding practices files
+# This repository is only for personal/academic => C,C++, C#, etc coding practice-files
 
 ```javascript
 const languages = [
